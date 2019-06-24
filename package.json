@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-import-file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A rollup plugin that allows you to import any file type in your project",
   "main": "dist/index.cjs.js",
   "module": "dist/index.es.js",
